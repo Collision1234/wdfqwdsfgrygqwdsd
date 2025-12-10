@@ -1,0 +1,209 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "",
+        "smallImageText": "Cobblemon",
+        "smallImageKey": "seal-circle"
+    },
+    "rss": "",
+    "servers": [
+        {
+            "id": "Cobblemon-Fabric-1.21.1",
+            "name": "Serveur Cobblemon",
+            "description": "Serveur Cobblemon sur Fabric 1.21.1. Attrapez et combattez avec vos Pokémon !",
+            "icon": "",
+            "version": "1.0.0",
+            "address": "michael-tft.eu.joinmc.link",
+            "minecraftVersion": "1.21.1",
+            "discord": {
+                "shortId": "Cobblemon",
+                "largeImageText": "Serveur Cobblemon",
+                "largeImageKey": "server-cobblemon"
+            },
+            "mainServer": true,
+            "autoconnect": false,
+            "javaOptions": {
+                "supported": ">=21.x",
+                "suggestedMajor": 21,
+                "ram": {
+                    "recommended": 4096,
+                    "minimum": 2048
+                }
+            },
+            "modules": [
+                {
+                    "id": "net.fabricmc:fabric-loader:0.18.1",
+                    "name": "Fabric Loader 0.18.1",
+                    "type": "Fabric",
+                    "artifact": {
+                        "size": 1944103,
+                        "MD5": "eee78db537e19297a4a5966bdad51291",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar"
+                    },
+                    "subModules": [
+                        {
+                            "id": "1.21.1-fabric-0.18.1",
+                            "name": "Fabric Version Manifest",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 2847,
+                                "MD5": "7623ef11868215fc4f0c5b3cb42adae9",
+                                "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.18.1/profile/json"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "org.ow2.asm:asm:9.7",
+                    "name": "Lib asm",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 125428,
+                        "MD5": "3957b18bf02a62edcb6726d074b90b08",
+                        "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar"
+                    }
+                },
+                {
+                    "id": "org.ow2.asm:asm-analysis:9.7",
+                    "name": "Lib asm-analysis",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 34776,
+                        "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
+                        "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+                    }
+                },
+                {
+                    "id": "org.ow2.asm:asm-commons:9.7",
+                    "name": "Lib asm-commons",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 73426,
+                        "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
+                        "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+                    }
+                },
+                {
+                    "id": "org.ow2.asm:asm-tree:9.7",
+                    "name": "Lib asm-tree",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 51934,
+                        "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
+                        "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+                    }
+                },
+                {
+                    "id": "org.ow2.asm:asm-util:9.7",
+                    "name": "Lib asm-util",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 93784,
+                        "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
+                        "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+                    }
+                },
+                {
+                    "id": "net.fabricmc:sponge-mixin:0.15.3+mixin.0.8.7",
+                    "name": "Lib sponge-mixin",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 1494835,
+                        "MD5": "a33725dd52de94c33514b6867c8d0b4b",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar"
+                    }
+                },
+                {
+                    "id": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
+                    "name": "Lib tiny-mappings-parser",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 82671,
+                        "MD5": "2ecb50617a3a012062e53ca4cda50936",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar"
+                    }
+                },
+                {
+                    "id": "net.fabricmc:tiny-remapper:0.10.3",
+                    "name": "Lib tiny-remapper",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 227222,
+                        "MD5": "b96d431c489c1764b350466f2c4d4711",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/tiny-remapper/0.10.3/tiny-remapper-0.10.3.jar"
+                    }
+                },
+                {
+                    "id": "net.fabricmc:access-widener:2.1.0",
+                    "name": "Lib access-widener",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 30866,
+                        "MD5": "b10766a61b0a230c06497a0bb96acd9d",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar"
+                    }
+                },
+                {
+                    "id": "net.fabricmc:mapping-io:0.6.1",
+                    "name": "Lib mapping-io",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 185830,
+                        "MD5": "fb18acc2d49a1db9ce3899fa3dda8fd3",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/mapping-io/0.6.1/mapping-io-0.6.1.jar"
+                    }
+                },
+                {
+                    "id": "net.fabricmc:intermediary:1.21.1",
+                    "name": "Lib intermediary",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 657725,
+                        "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth:fabric-api:0.116.7+1.21.1",
+                    "name": "Fabric API",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2424884,
+                        "MD5": "6d844b1f5a6f67395912e81043ae3aed",
+                        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/m6zu1K31/fabric-api-0.116.7%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth:fabric-language-kotlin:1.13.7+kotlin.2.2.21",
+                    "name": "Fabric Kotlin",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 7479608,
+                        "MD5": "89a977d6a4d7a84b8390f9143dd689f7",
+                        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/LcgnDDmT/fabric-language-kotlin-1.13.7%2Bkotlin.2.2.21.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth:architecture-api:13.0.8+fabric",
+                    "name": "Architectury",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 600915,
+                        "MD5": "702e92d09a4855c6c8aa9e738a48efa4",
+                        "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Wto0RchG/architectury-13.0.8-fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.cobblemon:cobblemon:1.7.1",
+                    "name": "Cobblemon 1.7.1",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 130797814,
+                        "MD5": "e59f92473437da937e85a892a5875d3d",
+                        "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/s64m1opn/Cobblemon-fabric-1.7.1%2B1.21.1.jar"
+                    }
+                }
+            ]
+        }
+    ]
+}
