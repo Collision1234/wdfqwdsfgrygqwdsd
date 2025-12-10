@@ -314,16 +314,6 @@
                     }
                 },
                 {
-                    "id": "com.dropbox:cobblemonautotidyuppc:1.0.0",
-                    "name": "CobblemonAutoTidyUpPC",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 24041,
-                        "MD5": "2cca668aa7de1b6cde2d6aa8ddab38f8",
-                        "url": "https://www.dropbox.com/scl/fi/8szq4gnj939mziwnvb1v3/CobblemonAutoTidyUpPC-1.2-SNAPSHOT.jar?rlkey=hvk3ti782ypa84rnn1ed958f4&st=harb4ac1&dl=1"
-                    }
-                },
-                {
                     "id": "com.dropbox:cobblemon:1.0.0",
                     "name": "Cobblemon",
                     "type": "FabricMod",
