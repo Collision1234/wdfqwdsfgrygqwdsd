@@ -324,16 +324,6 @@
                     }
                 },
                 {
-                    "id": "com.dropbox:cobblemon-aether-addon:1.0.0",
-                    "name": "cobblemon-aether-addon",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 15855,
-                        "MD5": "1630e2d5c499a906157ef6b76a9b8752",
-                        "url": "https://www.dropbox.com/scl/fi/efvag0h2xhh2jn04bjbsf/cobblemon-aether-addon-1.0.0.jar?rlkey=5cinpz6q1glfx0rfr5fpivdwk&st=hb3qk9pk&dl=1"
-                    }
-                },
-                {
                     "id": "com.dropbox:cobblemon_smartphone:1.0.0",
                     "name": "cobblemon_smartphone",
                     "type": "FabricMod",
