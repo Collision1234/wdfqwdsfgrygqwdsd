@@ -324,6 +324,16 @@
                     }
                 },
                 {
+                    "id": "com.dropbox:cobblemon-aether-addon:1.0.0",
+                    "name": "cobblemon-aether-addon",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 15855,
+                        "MD5": "1630e2d5c499a906157ef6b76a9b8752",
+                        "url": "https://www.dropbox.com/scl/fi/efvag0h2xhh2jn04bjbsf/cobblemon-aether-addon-1.0.0.jar?rlkey=5cinpz6q1glfx0rfr5fpivdwk&st=hb3qk9pk&dl=1"
+                    }
+                },
+                {
                     "id": "com.dropbox:cobblemon_smartphone:1.0.0",
                     "name": "cobblemon_smartphone",
                     "type": "FabricMod",
@@ -391,6 +401,96 @@
                         "size": 1095894,
                         "MD5": "8d601e9373c7657c978235e8c0ab2da8",
                         "url": "https://www.dropbox.com/scl/fi/z855i9ff5sc91721ks777/accessories-fabric-1.1.0-beta.52-1.21.1.jar?rlkey=9w6hf1cnc03xzgzvshoos6emm&st=sq1b4rt9&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:glitchcore:1.0.0",
+                    "name": "GlitchCore",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 329188,
+                        "MD5": "85bff7eebe02a0c002dbc4e49a5ec33d",
+                        "url": "https://www.dropbox.com/scl/fi/p3f4q0emnkp1cpiu3nasm/GlitchCore-fabric-1.21.1-2.1.0.0.jar?rlkey=u57k6kancrsjb0pjhryh3ye8y&st=9oh8wnto&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:corgilib:1.0.0",
+                    "name": "Corgilib",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 691375,
+                        "MD5": "136602b14734a1b5bc6d9ebb50add43f",
+                        "url": "https://www.dropbox.com/scl/fi/ex0cgidyjdzhojm4e9vi3/Corgilib-Fabric-1.21.1-5.0.0.7.jar?rlkey=u6fnm0uue2vulxf7hb4jc2wpu&st=6f589tu7&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:oh-the-trees-youll-grow:1.0.0",
+                    "name": "Oh-The-Trees-Youll-Grow",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 135553,
+                        "MD5": "6928cc2c3155ee67737c5be53e16d64d",
+                        "url": "https://www.dropbox.com/scl/fi/fb1hg2n9nj78vga4drzl5/Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.1.2.jar?rlkey=4smq7qun4ejaac5k7ps7fhtoq&st=0atbrxdu&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:geckolib:1.0.0",
+                    "name": "geckolib",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 652999,
+                        "MD5": "ffc6f43330ed0481a5c110e874310c7f",
+                        "url": "https://www.dropbox.com/scl/fi/d1d80xd69060xyh4gwao2/geckolib-fabric-1.21.1-4.8.2.jar?rlkey=6cj6flmalgqibj3j2ab3ksijq&st=3vjsbdwm&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:oh-the-biomes-weve-gone:1.0.0",
+                    "name": "Oh-The-Biomes-Weve-Gone",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 20713233,
+                        "MD5": "a4f3c157adfa9e0ec917dd63c9af617a",
+                        "url": "https://www.dropbox.com/scl/fi/plouo4vj1kh4kaqaea7ys/Oh-The-Biomes-Weve-Gone-Fabric-2.5.2.jar?rlkey=642vslto9w9ylo7gtq4e3qeeb&st=v67uzcyj&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:terrablender:1.0.0",
+                    "name": "TerraBlender",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 337989,
+                        "MD5": "cf9f9ea80cd7f8febebbe1752f23b68f",
+                        "url": "https://www.dropbox.com/scl/fi/gfa10xncpcd95kxhthr0n/TerraBlender-fabric-1.21.1-4.1.0.8.jar?rlkey=3ie2dwfx0cuqf9rcn9nh8y7zd&st=7lgpjl90&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:biomesoplenty:1.0.0",
+                    "name": "BiomesOPlenty",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 22349734,
+                        "MD5": "fdcd129accd99027ea194a428229e4af",
+                        "url": "https://www.dropbox.com/scl/fi/s7khyneaf2jyv4d6nzi2p/BiomesOPlenty-fabric-1.21.1-21.1.0.13.jar?rlkey=uda6e1wzlfyvzg50q0btagxeh&st=6r2aq8bk&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:chunky:1.0.0",
+                    "name": "Chunky",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 342979,
+                        "MD5": "2f9ea1108ade07fc89d8e75a9510163c",
+                        "url": "https://www.dropbox.com/scl/fi/79xqjskr0qsl2st5f0526/Chunky-Fabric-1.4.23.jar?rlkey=ai63d04xzhvcqq5so3ccq1yeo&st=4iq3ls73&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:distanthorizons:1.0.0",
+                    "name": "DistantHorizons",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 25477119,
+                        "MD5": "88eb8eb7b67d2a508070b1ff5c29242f",
+                        "url": "https://www.dropbox.com/scl/fi/y57323kxkfbqivv3o5p8j/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar?rlkey=x5pr7jly52frc73buh4zcsfkr&st=du8jvrmb&dl=1"
                     }
                 }
             ]
