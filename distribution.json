@@ -582,6 +582,16 @@
                         "MD5": "5d346f2029673d3c288e05afaba00ee5",
                         "url": "https://www.dropbox.com/scl/fi/u5b84lm1vwmyom5t15oi1/cobblemon-biomes-1.0.0.jar?rlkey=k6xtr7nsvrt6xbidxln6ogzd4&st=dyit5vqu&dl=1"
                     }
+                },
+                {
+                    "id": "com.dropbox:skinrestorer:1.0.0",
+                    "name": "skinrestorer",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 191709,
+                        "MD5": "7506a7c5470e6ac46a3a403dac493d5c",
+                        "url": "https://www.dropbox.com/scl/fi/qneoirop8vq5rbgw4gce8/skinrestorer-2.4.3-1.21-fabric.jar?rlkey=2ghk6f2z7yauk1dud91vx7gjc&st=v0tiisvh&dl=1"
+                    }
                 }
             ]
         }
