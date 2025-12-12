@@ -602,16 +602,6 @@
                         "MD5": "1179fe09b9ba970e84ed59259adfe65a",
                         "url": "https://www.dropbox.com/scl/fi/19zyfim3sby2xwglvlan7/iris-fabric-1.8.8-mc1.21.1.jar?rlkey=8pkdslmy5x7vjhw6y12uifznq&st=g766am04&dl=1"
                     }
-                },
-                {
-                    "id": "com.dropbox:sodium:1.0.0",
-                    "name": "sodium",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1281394,
-                        "MD5": "7b39f46f26eaef7a1d7026a2b7c99289",
-                        "url": "https://www.dropbox.com/scl/fi/y8fthlmy9uiystscqf7s7/sodium-fabric-0.6.0-mc1.21.1.jar?rlkey=mebzs7tns4khsrl5740q0hgv7&st=9aog0obw&dl=1"
-                    }
                 }
             ]
         }
