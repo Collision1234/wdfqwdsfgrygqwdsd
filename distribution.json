@@ -608,9 +608,9 @@
                     "name": "sodium",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 1281394,
-                        "MD5": "7b39f46f26eaef7a1d7026a2b7c99289",
-                        "url": "https://www.dropbox.com/scl/fi/y8fthlmy9uiystscqf7s7/sodium-fabric-0.6.0-mc1.21.1.jar?rlkey=mebzs7tns4khsrl5740q0hgv7&st=9aog0obw&dl=1"
+                        "size": 1291049,
+                        "MD5": "a883c82dde9bef063e5713bcf1394bdd",
+                        "url": "https://www.dropbox.com/scl/fi/x5ev7lql2bztliv4ju6hr/sodium-fabric-0.6.1-mc1.21.1.jar?rlkey=du44mzl5rske49k2n7413oidj&st=qhzaaw5v&dl=1"
                     }
                 }
             ]
