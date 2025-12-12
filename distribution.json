@@ -594,16 +594,6 @@
                     }
                 },
                 {
-                    "id": "com.dropbox:iris:1.0.0",
-                    "name": "iris",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2674831,
-                        "MD5": "924b361dcf01dd29a57cf25ac4583eeb",
-                        "url": "https://www.dropbox.com/scl/fi/tg998h21g4mklyvz0gfnc/iris-fabric-1.8.0-beta.7-mc1.21.1.jar?rlkey=j7sbwdqeb0ty509fu5w29cq1i&st=wi6vxxyl&dl=1"
-                    }
-                },
-                {
                     "id": "com.dropbox:sodium:1.0.0",
                     "name": "sodium",
                     "type": "FabricMod",
