@@ -592,6 +592,26 @@
                         "MD5": "7506a7c5470e6ac46a3a403dac493d5c",
                         "url": "https://www.dropbox.com/scl/fi/qneoirop8vq5rbgw4gce8/skinrestorer-2.4.3-1.21-fabric.jar?rlkey=2ghk6f2z7yauk1dud91vx7gjc&st=v0tiisvh&dl=1"
                     }
+                },
+                {
+                    "id": "com.dropbox:iris:1.0.0",
+                    "name": "iris",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2690177,
+                        "MD5": "1179fe09b9ba970e84ed59259adfe65a",
+                        "url": "https://www.dropbox.com/scl/fi/19zyfim3sby2xwglvlan7/iris-fabric-1.8.8-mc1.21.1.jar?rlkey=8pkdslmy5x7vjhw6y12uifznq&st=g766am04&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:sodium:1.0.0",
+                    "name": "sodium",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1297761,
+                        "MD5": "aa37ba0048a1af6b554b137088cad484",
+                        "url": "https://www.dropbox.com/scl/fi/roaq12n8o35kcld6wvyox/sodium-fabric-0.6.13-mc1.21.1.jar?rlkey=8gvx599az34azpnm8hep4e53h&st=0h0iuysn&dl=1"
+                    }
                 }
             ]
         }
