@@ -592,6 +592,16 @@
                         "MD5": "a883c82dde9bef063e5713bcf1394bdd",
                         "url": "https://www.dropbox.com/scl/fi/x5ev7lql2bztliv4ju6hr/sodium-fabric-0.6.1-mc1.21.1.jar?rlkey=du44mzl5rske49k2n7413oidj&st=qhzaaw5v&dl=1"
                     }
+                },
+                {
+                    "id": "com.dropbox:cobblemon-autocombat:1.0.0",
+                    "name": "cobblemon-autocombat",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 22563,
+                        "MD5": "c44674e1ce25093eff039aeb972a25c3",
+                        "url": "https://www.dropbox.com/scl/fi/pq58gansmfg9ph9bnrqdb/cobblemon-autocombat-1.0.0.jar?rlkey=iqmi5l355zzmin6p17ux1be1t&st=93g2bhu7&dl=1"
+                    }
                 }
             ]
         }
