@@ -732,6 +732,16 @@
                         "MD5": "a483ea4d5018994f2da36d19a0c6aef2",
                         "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AOaO-e3SYbnbpqdIRLgqTEs/yuushya-1.21.0-fabric-2.2.3.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
+                      },
+                {
+                    "id": "com.dropbox:cobblemonshinyrarities-0-1-0:1.0.0",
+                    "name": "cobblemonshinyrarities-0-1-0",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 9578550,
+                        "MD5": "1a76a983052bdc1c3dc0f2c72120d278",
+                        "url": "https://www.dropbox.com/scl/fi/ur6vvgz4nvljx5x682veq/CobblemonShinyRarities-0.1.0.jar?rlkey=jdr0ig9dw6bn0op798ln0dzh9&st=xvg3ug3g&dl=1"
+                    }
                 }
             ]
         }
