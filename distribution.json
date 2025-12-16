@@ -164,443 +164,573 @@
                     }
                 },
                 {
-                    "id": "com.dropbox:timcore:1.0.0",
-                    "name": "timcore",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 200133,
-                        "MD5": "fd14519ccd1deca3065c117bfa8a6f2b",
-                        "url": "https://www.dropbox.com/scl/fi/3uzuwjelf5krq6xw0w3es/timcore-fabric-1.7.1-1.26.1.jar?rlkey=yn8spqe8fz14t8xjwwuz7gdp8&st=s9ebpovs&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:spawnnotification:1.0.0",
-                    "name": "spawnnotification",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 126611,
-                        "MD5": "baaf59ae592f180e578c7d9db5e9fdaa",
-                        "url": "https://www.dropbox.com/scl/fi/x5ofzaio0ql7yjkiki3sg/spawnnotification-fabric-1.7.1-2.1.0.jar?rlkey=eh9yhwg9vx48zyvws99w9ms6t&st=zzbtdc22&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:rctapi:1.0.0",
-                    "name": "rctapi",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 206897,
-                        "MD5": "62fb563ff592ff543ed26634e15b5a37",
-                        "url": "https://www.dropbox.com/scl/fi/10gq7ro4jcqii1k09xtki/rctapi-fabric-1.21.1-0.14.3-beta.jar?rlkey=d8l2lmxd32m800xodjeszm522&st=v0uqe7t4&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:owo-lib:1.0.0",
-                    "name": "owo-lib",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1183559,
-                        "MD5": "3627aee17111e12a8c66928f5d7a3fba",
-                        "url": "https://www.dropbox.com/scl/fi/tplg7n7xq7kv4wfk95hea/owo-lib-0.12.15.4-1.21.jar?rlkey=qgsccwyiv7bldb4c3ur34x88m&st=0nd1s1tn&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:mega_showdown:1.0.0",
-                    "name": "mega_showdown",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 15865540,
-                        "MD5": "a05953b166a5f8c4edbf54a30cf68d9c",
-                        "url": "https://www.dropbox.com/scl/fi/d7xdgp542aghqi7frgsm9/mega_showdown-fabric-1.4.4-1.7.1-1.21.1.jar?rlkey=12fe7n1tfl3ndl4yu25hx6rar&st=vvdd8iwg&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:ftb-teams:1.0.0",
-                    "name": "ftb-teams",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 264773,
-                        "MD5": "adb5b0a45e0532ab2b7d6478d5e1ccb9",
-                        "url": "https://www.dropbox.com/scl/fi/726ji4mvlvj6wb9604453/ftb-teams-fabric-2101.1.7.jar?rlkey=cvmcm1z8sjh3ebe4rimgls7xs&st=2xn2vqnf&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:ftb-quests:1.0.0",
-                    "name": "ftb-quests",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1433860,
-                        "MD5": "b6fc6ad72c8793e97bceb7a508d5c0fd",
-                        "url": "https://www.dropbox.com/scl/fi/7xww4emloevgri4kxkm2y/ftb-quests-fabric-2101.1.19.jar?rlkey=glu90k6l74tgdkkr3iypfoybc&st=68v4er1p&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:ftb-library:1.0.0",
-                    "name": "ftb-library",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1405195,
-                        "MD5": "4c126c2ed836e9da3328a49f506cf46b",
-                        "url": "https://www.dropbox.com/scl/fi/vs9mdewtinva3t1w2jlzk/ftb-library-fabric-2101.1.28.jar?rlkey=q9z3b47z0ks9u7veolqiklypf&st=cocoo8gr&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:fightorflight:1.0.0",
-                    "name": "fightorflight",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1387968,
-                        "MD5": "d6477322ebe95cbce9de0eb593b03340",
-                        "url": "https://www.dropbox.com/scl/fi/76s0qmo88qtvc81f96f28/fightorflight-fabric-0.10.1.jar?rlkey=a3xheeml8i187pgkrzz2o2ptu&st=wua8zvce&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:fabric-api:1.0.0",
-                    "name": "fabric-api",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2424884,
-                        "MD5": "6d844b1f5a6f67395912e81043ae3aed",
-                        "url": "https://www.dropbox.com/scl/fi/4d42jm7s25sp152uy98lg/fabric-api-0.138.3-1.21.1.jar?rlkey=sa9h60nn4vnhxul4ucvg649go&st=4097zj5w&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:everlastingutils:1.0.0",
-                    "name": "everlastingutils",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1201487,
-                        "MD5": "e2d7245bab6fab5758003b3a0fac63d6",
-                        "url": "https://www.dropbox.com/scl/fi/y6g6k2zt01m26jda5nvbb/everlastingutils-1.0.9.jar?rlkey=8f1ya2bsnyny5iqg6c805dwz7&st=i7u1yiox&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:cobbreeding:1.0.0",
-                    "name": "Cobbreeding",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 304580,
-                        "MD5": "d7fff33e9b9d730e4cd6a32fdf04c48b",
-                        "url": "https://www.dropbox.com/scl/fi/klepmy94yma5vb2mrp5lb/Cobbreeding-fabric-2.1.1.jar?rlkey=olafa5fp2e7njmn02l1d35fj0&st=17qr9u6y&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:cobblenav:1.0.0",
-                    "name": "cobblenav",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 780131,
-                        "MD5": "f6f1a2fbba01767ec6eb235cc1334650",
-                        "url": "https://www.dropbox.com/scl/fi/l5h27pvreiw1y3vweh4np/cobblenav-fabric-2.2.5.jar?rlkey=o08vyxkjnn2058rffz389nny5&st=z3s1oze6&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:cobblemonsizevariation:1.0.0",
-                    "name": "CobblemonSizeVariation",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 97158,
-                        "MD5": "3f5c98d3a10f501cee9fc0f4921fe594",
-                        "url": "https://www.dropbox.com/scl/fi/mmojofy29izqss1gla4fm/CobblemonSizeVariationFabric-1.4.0-1.7.0.jar?rlkey=hdwugsbvg3ut6zymv9fsxdl8d&st=j4iz1vcv&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:cobblemonextras:1.0.0",
-                    "name": "CobblemonExtras",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 5032588,
-                        "MD5": "5ac7d767d99566acf45d13566a80f188",
-                        "url": "https://www.dropbox.com/scl/fi/zcajp9ypzw5c9jypw8qy5/CobblemonExtras-fabric-1.4.2.jar?rlkey=15w1y6fxdlyz51y5ignjeu9gr&st=m4mvwi66&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:cobblemon:1.0.0",
-                    "name": "Cobblemon",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 130797814,
-                        "MD5": "e59f92473437da937e85a892a5875d3d",
-                        "url": "https://www.dropbox.com/scl/fi/5plwag2k6xepanpmxxthh/Cobblemon-fabric-1.7.1-1.21.1.jar?rlkey=foas7clvkiktty1otufcz63mc&st=s4gifz8a&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:cobblemon_smartphone:1.0.0",
-                    "name": "cobblemon_smartphone",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 181106,
-                        "MD5": "c6067117fea24c7fdac55283a44a9f7a",
-                        "url": "https://www.dropbox.com/scl/fi/n9x8yhsdljom5sy94wxay/cobblemon_smartphone-fabric-1.0.5.jar?rlkey=vwnv67ighbprh9jlapqu3irc3&st=iwa204s0&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:cobblemon_quests:1.0.0",
-                    "name": "cobblemon_quests",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 61946,
-                        "MD5": "95d0dd45e3484e65c8fad89c2e358409",
-                        "url": "https://www.dropbox.com/scl/fi/c1ocb79euv7e3wvchdl2c/cobblemon_quests-1.21.1-fabric-1.2.0.jar?rlkey=lflrdlenlm3akn8vmd1wmsj9z&st=s3mcov4t&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:capturexp:1.0.0",
-                    "name": "capturexp",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 22847,
-                        "MD5": "3588f11800a3543b90cc012218cb2e64",
-                        "url": "https://www.dropbox.com/scl/fi/x8obf46dq337hb6fkl3y4/capturexp-fabric-1.7.1-1.3.0.jar?rlkey=ufkivqwvd47k9aq340b1c077z&st=g1pms4w4&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:async-fabric:1.0.0",
-                    "name": "async-fabric",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 683133,
-                        "MD5": "39b6dbcc1d5aa1459f49426e46191470",
-                        "url": "https://www.dropbox.com/scl/fi/edhbdlllsvyji6gfmp3wd/async-fabric-0.1.8-alpha.1-1.21.1.jar?rlkey=0f7xmlwv6dwx2l6gwuznqhbep&st=79od0dck&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:architectury:1.0.0",
-                    "name": "architectury",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 600915,
-                        "MD5": "702e92d09a4855c6c8aa9e738a48efa4",
-                        "url": "https://www.dropbox.com/scl/fi/e4dui7m9fqq4vlh9aap90/architectury-13.0.8-fabric.jar?rlkey=kqc9r0f3l292yr32w38eq2v1n&st=q3lg1x3p&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:aether:1.0.0",
-                    "name": "aether",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 40931095,
-                        "MD5": "292a0b635d3f0d7e83730583dbede5e5",
-                        "url": "https://www.dropbox.com/scl/fi/1x5pv0mv7a5vld6zjhf1w/aether-1.21.1-1.5.11-fabric.jar?rlkey=850jss3ooax8aechcpd91az5i&st=b3f9hlwl&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:accessories:1.0.0",
-                    "name": "accessories",
+                    "id": "com.dropbox:accessories-fabric-1-1-0-beta-52-1-21-1:1.0.0",
+                    "name": "accessories-fabric-1-1-0-beta-52-1-21-1",
                     "type": "FabricMod",
                     "artifact": {
                         "size": 1095894,
                         "MD5": "8d601e9373c7657c978235e8c0ab2da8",
-                        "url": "https://www.dropbox.com/scl/fi/z855i9ff5sc91721ks777/accessories-fabric-1.1.0-beta.52-1.21.1.jar?rlkey=9w6hf1cnc03xzgzvshoos6emm&st=sq1b4rt9&dl=1"
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ALfPIFzWCJYM0eJEhCm59N4/accessories-fabric-1.1.0-beta.52%2B1.21.1.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
                 },
                 {
-                    "id": "com.dropbox:glitchcore:1.0.0",
-                    "name": "GlitchCore",
+                    "id": "com.dropbox:aether-1-21-1-1-5-11-fabric:1.0.0",
+                    "name": "aether-1-21-1-1-5-11-fabric",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 329188,
-                        "MD5": "85bff7eebe02a0c002dbc4e49a5ec33d",
-                        "url": "https://www.dropbox.com/scl/fi/p3f4q0emnkp1cpiu3nasm/GlitchCore-fabric-1.21.1-2.1.0.0.jar?rlkey=u57k6kancrsjb0pjhryh3ye8y&st=9oh8wnto&dl=1"
+                        "size": 40931095,
+                        "MD5": "292a0b635d3f0d7e83730583dbede5e5",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AOHszd5Ud1tezI5yzNVF7xI/aether-1.21.1-1.5.11-fabric.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
                 },
                 {
-                    "id": "com.dropbox:corgilib:1.0.0",
-                    "name": "Corgilib",
+                    "id": "com.dropbox:architecture:1.0.0",
+                    "name": "architecture",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 691375,
-                        "MD5": "136602b14734a1b5bc6d9ebb50add43f",
-                        "url": "https://www.dropbox.com/scl/fi/ex0cgidyjdzhojm4e9vi3/Corgilib-Fabric-1.21.1-5.0.0.7.jar?rlkey=u6fnm0uue2vulxf7hb4jc2wpu&st=6f589tu7&dl=1"
+                        "size": 600915,
+                        "MD5": "702e92d09a4855c6c8aa9e738a48efa4",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AN4yZdKolRaGNWOjV7j0NEU/Architecture.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
                 },
                 {
-                    "id": "com.dropbox:oh-the-trees-youll-grow:1.0.0",
-                    "name": "Oh-The-Trees-Youll-Grow",
+                    "id": "com.dropbox:architectury-13-0-8-fabric:1.0.0",
+                    "name": "architectury-13-0-8-fabric",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 135553,
-                        "MD5": "6928cc2c3155ee67737c5be53e16d64d",
-                        "url": "https://www.dropbox.com/scl/fi/fb1hg2n9nj78vga4drzl5/Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.1.2.jar?rlkey=4smq7qun4ejaac5k7ps7fhtoq&st=0atbrxdu&dl=1"
+                        "size": 600915,
+                        "MD5": "702e92d09a4855c6c8aa9e738a48efa4",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AKeQmi9sAvxnHJayYvXyqmA/architectury-13.0.8-fabric.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
                 },
                 {
-                    "id": "com.dropbox:geckolib:1.0.0",
-                    "name": "geckolib",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 652999,
-                        "MD5": "ffc6f43330ed0481a5c110e874310c7f",
-                        "url": "https://www.dropbox.com/scl/fi/d1d80xd69060xyh4gwao2/geckolib-fabric-1.21.1-4.8.2.jar?rlkey=6cj6flmalgqibj3j2ab3ksijq&st=3vjsbdwm&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:oh-the-biomes-weve-gone:1.0.0",
-                    "name": "Oh-The-Biomes-Weve-Gone",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 20713233,
-                        "MD5": "a4f3c157adfa9e0ec917dd63c9af617a",
-                        "url": "https://www.dropbox.com/scl/fi/plouo4vj1kh4kaqaea7ys/Oh-The-Biomes-Weve-Gone-Fabric-2.5.2.jar?rlkey=642vslto9w9ylo7gtq4e3qeeb&st=v67uzcyj&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:terrablender:1.0.0",
-                    "name": "TerraBlender",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 337989,
-                        "MD5": "cf9f9ea80cd7f8febebbe1752f23b68f",
-                        "url": "https://www.dropbox.com/scl/fi/gfa10xncpcd95kxhthr0n/TerraBlender-fabric-1.21.1-4.1.0.8.jar?rlkey=3ie2dwfx0cuqf9rcn9nh8y7zd&st=7lgpjl90&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:biomesoplenty:1.0.0",
-                    "name": "BiomesOPlenty",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 22349734,
-                        "MD5": "fdcd129accd99027ea194a428229e4af",
-                        "url": "https://www.dropbox.com/scl/fi/s7khyneaf2jyv4d6nzi2p/BiomesOPlenty-fabric-1.21.1-21.1.0.13.jar?rlkey=uda6e1wzlfyvzg50q0btagxeh&st=6r2aq8bk&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:chunky:1.0.0",
-                    "name": "Chunky",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 342979,
-                        "MD5": "2f9ea1108ade07fc89d8e75a9510163c",
-                        "url": "https://www.dropbox.com/scl/fi/79xqjskr0qsl2st5f0526/Chunky-Fabric-1.4.23.jar?rlkey=ai63d04xzhvcqq5so3ccq1yeo&st=4iq3ls73&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:distanthorizons:1.0.0",
-                    "name": "DistantHorizons",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 25477119,
-                        "MD5": "88eb8eb7b67d2a508070b1ff5c29242f",
-                        "url": "https://www.dropbox.com/scl/fi/y57323kxkfbqivv3o5p8j/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar?rlkey=x5pr7jly52frc73buh4zcsfkr&st=du8jvrmb&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:moogsendstructures:1.0.0",
-                    "name": "MoogsEndStructures",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2458609,
-                        "MD5": "03f7de06ee9fa12fe25cd1e2d1ee1cf7",
-                        "url": "https://www.dropbox.com/scl/fi/pkstefjjqo4er6jq3m0sg/MoogsEndStructures-1.21-2.0.0.jar?rlkey=fn7mg5qwu53yw19rro0fddqfg&st=hva4ogk7&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:better-nether:1.0.0",
-                    "name": "better-nether",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 23145216,
-                        "MD5": "bda45864e3f5e71478192066846f1ca0",
-                        "url": "https://www.dropbox.com/scl/fi/tuqtdvybn2d0qwikfvbf7/better-nether-21.0.11.jar?rlkey=l0wrdo76mvpqayj5t67sudmr9&st=dx9bact0&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:better-end:1.0.0",
-                    "name": "better-end",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 93380273,
-                        "MD5": "8097fa99509fb16effb51caef8b4f488",
-                        "url": "https://www.dropbox.com/scl/fi/xv7zb8mk9hayemxvfivyv/better-end-21.0.11.jar?rlkey=ap1qloixlkfnblmhpz16czysh&st=wm88wqfl&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:yuushya:1.0.0",
-                    "name": "yuushya",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 23385785,
-                        "MD5": "a483ea4d5018994f2da36d19a0c6aef2",
-                        "url": "https://www.dropbox.com/scl/fi/ssca5lc0bbaafzasqffya/yuushya-1.21.0-fabric-2.2.3.jar?rlkey=mx7pm4v9by20yeju37oangtas&st=7ksr5tj6&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:moogs_structures:1.0.0",
-                    "name": "moogs_structures",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 238468,
-                        "MD5": "f0113e010da141b70b3c62ad24b15e47",
-                        "url": "https://www.dropbox.com/scl/fi/n0fc2ow6dj8cqgd9pngme/moogs_structures-1.1.0-1.21-1.21.1-fabric.jar?rlkey=whxlpg3cnqusnxb027t8qsj69&st=8ksylstw&dl=1"
-                    }
-                },
-                {
-                    "id": "com.dropbox:bclib:1.0.0",
-                    "name": "bclib",
+                    "id": "com.dropbox:bclib-21-0-13:1.0.0",
+                    "name": "bclib-21-0-13",
                     "type": "FabricMod",
                     "artifact": {
                         "size": 1486843,
                         "MD5": "dea2b315841d5a8167980f39ff3ba526",
-                        "url": "https://www.dropbox.com/scl/fi/ls5fbvjxv5htohjgdri3w/bclib-21.0.13.jar?rlkey=i3kxxp7ye6d9g65wzbwkz8wcb&st=fwp7b9je&dl=1"
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AD0MvOhYHCy767xNwEWlN0U/bclib-21.0.13.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
                 },
                 {
-                    "id": "com.dropbox:worldweaver:1.0.0",
-                    "name": "worldweaver",
+                    "id": "com.dropbox:better-end-21-0-11:1.0.0",
+                    "name": "better-end-21-0-11",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 2364215,
-                        "MD5": "6b2ca5e70ba245a74a7cbe71dd0a41bb",
-                        "url": "https://www.dropbox.com/scl/fi/f3h9b038e6v3y1ew06g3v/worldweaver-21.0.13.jar?rlkey=8ooekvqos53nscru9z0ejui55&st=00zzfhck&dl=1"
+                        "size": 93380273,
+                        "MD5": "8097fa99509fb16effb51caef8b4f488",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ADm4MudzL4KMQuLPZt4YY9k/better-end-21.0.11.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
                 },
                 {
-                    "id": "com.dropbox:wunderlib:1.0.0",
-                    "name": "wunderlib",
+                    "id": "com.dropbox:better-nether-21-0-11:1.0.0",
+                    "name": "better-nether-21-0-11",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 384385,
-                        "MD5": "4fcfb12f3e187f788b3ab9aaa22eab33",
-                        "url": "https://www.dropbox.com/scl/fi/yi5l9tnhceusly6y0lifi/wunderlib-21.0.8.jar?rlkey=p1oyiwnsykv8aba02377s50ez&st=x1xcg5t7&dl=1"
+                        "size": 23145216,
+                        "MD5": "bda45864e3f5e71478192066846f1ca0",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AN5Pbbnd7KQz7dAIaoOLLwo/better-nether-21.0.11.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
                 },
                 {
-                    "id": "com.dropbox:cobblemon-biomes:1.0.0",
-                    "name": "cobblemon-biomes",
+                    "id": "com.dropbox:biomesoplenty-fabric-1-21-1-21-1-0-13:1.0.0",
+                    "name": "biomesoplenty-fabric-1-21-1-21-1-0-13",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 48447,
-                        "MD5": "0a4c4274938d25b2387756a6108c2e53",
-                        "url": "https://www.dropbox.com/scl/fi/ik96gbsb6fcvhc2vh4rqp/cobblemon-biomes-1.0.0.jar?rlkey=xx50oy0a2qf0ffjzs56oqm5vk&st=noyjptxn&dl=1"
+                        "size": 22349734,
+                        "MD5": "fdcd129accd99027ea194a428229e4af",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AJFvq-BtuNKTpoVSIXuvjP8/BiomesOPlenty-fabric-1.21.1-21.1.0.13.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
                 },
                 {
-                    "id": "com.dropbox:skinrestorer:1.0.0",
-                    "name": "skinrestorer",
+                    "id": "com.dropbox:capturexp-fabric-1-7-1-1-3-0:1.0.0",
+                    "name": "capturexp-fabric-1-7-1-1-3-0",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 191709,
-                        "MD5": "7506a7c5470e6ac46a3a403dac493d5c",
-                        "url": "https://www.dropbox.com/scl/fi/qneoirop8vq5rbgw4gce8/skinrestorer-2.4.3-1.21-fabric.jar?rlkey=2ghk6f2z7yauk1dud91vx7gjc&st=v0tiisvh&dl=1"
+                        "size": 22847,
+                        "MD5": "3588f11800a3543b90cc012218cb2e64",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ABS1vSRcmtHHLey48PJ8Qjw/capturexp-fabric-1.7.1-1.3.0.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
                 },
                 {
-                    "id": "com.dropbox:sodium:1.0.0",
-                    "name": "sodium",
+                    "id": "com.dropbox:cobblebosses:1.0.0",
+                    "name": "cobblebosses",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 1291049,
-                        "MD5": "a883c82dde9bef063e5713bcf1394bdd",
-                        "url": "https://www.dropbox.com/scl/fi/x5ev7lql2bztliv4ju6hr/sodium-fabric-0.6.1-mc1.21.1.jar?rlkey=du44mzl5rske49k2n7413oidj&st=qhzaaw5v&dl=1"
+                        "size": 41298,
+                        "MD5": "c467fd3f13b181fa5983951a37ad4ff5",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ALzxr76YO7eiiXEuUQviixA/CobbleBosses.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
                 },
                 {
-                    "id": "com.dropbox:cobblemon-autocombat:1.0.0",
-                    "name": "cobblemon-autocombat",
+                    "id": "com.dropbox:cobblecalendar:1.0.0",
+                    "name": "cobblecalendar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 48691,
+                        "MD5": "861680f483d982e9014ee79495ee7e1f",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AEC9ichJ6XWVF85YC_4zT7g/CobbleCalendar.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblemon-quests-1-21-1-fabric-1-2-0:1.0.0",
+                    "name": "cobblemon-quests-1-21-1-fabric-1-2-0",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 61946,
+                        "MD5": "95d0dd45e3484e65c8fad89c2e358409",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ACwTOSgBnalwnKFYJRIxVjE/cobblemon_quests-%5B1.21.1%5D-fabric-1.2.0.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblemon-smartphone-fabric-1-0-5:1.0.0",
+                    "name": "cobblemon-smartphone-fabric-1-0-5",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 181106,
+                        "MD5": "c6067117fea24c7fdac55283a44a9f7a",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ANz-xfx4jbXhGIzOf75U5Xk/cobblemon_smartphone-fabric-1.0.5.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblemon-autocombat-1-0-0:1.0.0",
+                    "name": "cobblemon-autocombat-1-0-0",
                     "type": "FabricMod",
                     "artifact": {
                         "size": 29877,
                         "MD5": "cf503cbffef9bb0c4291d5ebb9406d2b",
-                        "url": "https://www.dropbox.com/scl/fi/orgb2dvbdcp30jc56ftvx/cobblemon-autocombat-1.0.0.jar?rlkey=sawsw5u11bgj903jx2qoy0rz1&st=4uew59py&dl=1"
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ANkI6qUMcpWbF4pCOSOSpzo/cobblemon-autocombat-1.0.0.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblemon-biomes-1-0-0:1.0.0",
+                    "name": "cobblemon-biomes-1-0-0",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 48447,
+                        "MD5": "0a4c4274938d25b2387756a6108c2e53",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AHtJVO-YfZwSNsGTlTDwHlc/cobblemon-biomes-1.0.0.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblemon-fabric-1-7-1-1-21-1:1.0.0",
+                    "name": "cobblemon-fabric-1-7-1-1-21-1",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 130797814,
+                        "MD5": "e59f92473437da937e85a892a5875d3d",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ACmx9WeYjs76f34ZgUqCZxQ/Cobblemon-fabric-1.7.1%2B1.21.1.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblemonextras-fabric-1-4-2:1.0.0",
+                    "name": "cobblemonextras-fabric-1-4-2",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 5032588,
+                        "MD5": "5ac7d767d99566acf45d13566a80f188",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AAEDx1Kvwr1pr7x4sPHParQ/CobblemonExtras-fabric-1.4.2.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblemonextras:1.0.0",
+                    "name": "cobblemonextras",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 5032588,
+                        "MD5": "5ac7d767d99566acf45d13566a80f188",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ABY6fnZnt9FeFJlA-BErl3w/CobblemonExtras.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblemonpatches-us:1.0.0",
+                    "name": "cobblemonpatches-us",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 733449,
+                        "MD5": "911c641fef30c68b10e9fbd2465e129b",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ABkz3Vs5F2H8fOycEMge5JY/CobblemonPatches-US.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblemonsizevariationfabric-1-4-0-1-7-0:1.0.0",
+                    "name": "cobblemonsizevariationfabric-1-4-0-1-7-0",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 97158,
+                        "MD5": "3f5c98d3a10f501cee9fc0f4921fe594",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ADzc-GbmkYKSCKO3IX6QMlU/CobblemonSizeVariationFabric-1.4.0%2B1.7.0.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblenav-fabric-2-2-5:1.0.0",
+                    "name": "cobblenav-fabric-2-2-5",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 780131,
+                        "MD5": "f6f1a2fbba01767ec6eb235cc1334650",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AEsO4NAsYAIg4UkNI_eBBes/cobblenav-fabric-2.2.5.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblenotify:1.0.0",
+                    "name": "cobblenotify",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 32073,
+                        "MD5": "0eac9d9501d711adf4ed4900147cfb1c",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AMpr9yO6DkqmJuy88ANq4hI/CobbleNotify.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobblests:1.0.0",
+                    "name": "cobblests",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 37774,
+                        "MD5": "7ca53fcff98aa479258e2bc374009785",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ADeatZZ47GZEYIwP4IoLgVc/CobbleSTS.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobbleutils-1-7-0-1-21-1:1.0.0",
+                    "name": "cobbleutils-1-7-0-1-21-1",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 541481,
+                        "MD5": "6975fafa65326f9c1f21d009ab71fcab",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AKw54_WTUOe5lrztWhgHOR8/CobbleUtils-1.7.0-1.21.1.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:cobbreeding-fabric-2-1-1:1.0.0",
+                    "name": "cobbreeding-fabric-2-1-1",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 304580,
+                        "MD5": "d7fff33e9b9d730e4cd6a32fdf04c48b",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ADHUj9YXtedVRzEAIDud6Fc/Cobbreeding-fabric-2.1.1.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:corgilib-fabric-1-21-1-5-0-0-7:1.0.0",
+                    "name": "corgilib-fabric-1-21-1-5-0-0-7",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 691375,
+                        "MD5": "136602b14734a1b5bc6d9ebb50add43f",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AMpCr1JmSls6RTgsNvu7_vA/Corgilib-Fabric-1.21.1-5.0.0.7.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:everlastingutils-1-0-9:1.0.0",
+                    "name": "everlastingutils-1-0-9",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1201487,
+                        "MD5": "e2d7245bab6fab5758003b3a0fac63d6",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AMI3d4CrFgTYBT48Pgeskp8/everlastingutils-1.0.9.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:fabric-api-0-138-3-1-21-1:1.0.0",
+                    "name": "fabric-api-0-138-3-1-21-1",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2424884,
+                        "MD5": "6d844b1f5a6f67395912e81043ae3aed",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AEUNHyMnYvHH5oqNF8ud-MQ/fabric-api-0.138.3%2B1.21.1.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:fabric-api-0-139-2-1-21-11:1.0.0",
+                    "name": "fabric-api-0-139-2-1-21-11",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2120188,
+                        "MD5": "f26f905f8dbac12d6c309bd3c1e96580",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AKLiWywbYbcBopnCAOyrZgA/fabric-api-0.139.2%2B1.21.11.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:farmersdelight-1-21-1-3-2-2-refabricated:1.0.0",
+                    "name": "farmersdelight-1-21-1-3-2-2-refabricated",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 3129714,
+                        "MD5": "1df65f28a7daa06d0d33082b262e9009",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AKDeYp8_eS9oYRpYNAyP2Mc/FarmersDelight-1.21.1-3.2.2%2Brefabricated.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:fightorflight-fabric-0-10-1:1.0.0",
+                    "name": "fightorflight-fabric-0-10-1",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1387968,
+                        "MD5": "d6477322ebe95cbce9de0eb593b03340",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ALxoi_1AxCPjAtfY3cPOP4c/fightorflight-fabric-0.10.1.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:ftb-library-fabric-2101-1-28:1.0.0",
+                    "name": "ftb-library-fabric-2101-1-28",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1405195,
+                        "MD5": "4c126c2ed836e9da3328a49f506cf46b",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ACZhOY64MtJQi5a_TBQIuhM/ftb-library-fabric-2101.1.28.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:ftb-quests-fabric-2101-1-19:1.0.0",
+                    "name": "ftb-quests-fabric-2101-1-19",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1433860,
+                        "MD5": "b6fc6ad72c8793e97bceb7a508d5c0fd",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ADWaIE7MAnxG4x-PCd3mnMk/ftb-quests-fabric-2101.1.19.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:ftb-teams-fabric-2101-1-7:1.0.0",
+                    "name": "ftb-teams-fabric-2101-1-7",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 264773,
+                        "MD5": "adb5b0a45e0532ab2b7d6478d5e1ccb9",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AO1V7Nx8HnDAZvZtgvT3vy8/ftb-teams-fabric-2101.1.7.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:geckolib-fabric-1-21-1-4-8-2:1.0.0",
+                    "name": "geckolib-fabric-1-21-1-4-8-2",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 652999,
+                        "MD5": "ffc6f43330ed0481a5c110e874310c7f",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AGGXJcJct_eG7Wt7yOlr4qo/geckolib-fabric-1.21.1-4.8.2.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:glitchcore-fabric-1-21-1-2-1-0-0:1.0.0",
+                    "name": "glitchcore-fabric-1-21-1-2-1-0-0",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 329188,
+                        "MD5": "85bff7eebe02a0c002dbc4e49a5ec33d",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AOU3dbz8MNRVuJ9dICYDnF8/GlitchCore-fabric-1.21.1-2.1.0.0.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:gooeylibs-fabric-3-1-1-1-21-x:1.0.0",
+                    "name": "gooeylibs-fabric-3-1-1-1-21-x",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 325862,
+                        "MD5": "59dd5aab6095793531ffca44cc04226d",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AJp7KURcLSmTcOJI-m9DTpM/GooeyLibs-Fabric-3.1.1-1.21.x.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:gts-2-5-1:1.0.0",
+                    "name": "gts-2-5-1",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1386494,
+                        "MD5": "9d03e4d0a48f2fc309146bb73530e728",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ABEY6oo_R7krNyVwJJbxSFs/Gts-2.5.1.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:hunt-1-3-0:1.0.0",
+                    "name": "hunt-1-3-0",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 402988,
+                        "MD5": "11daca7aed95565f29ff760e8bfb1404",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AM8ebpQCkZseSWyedp_4-L0/Hunt-1.3.0.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:mega-showdown-fabric-1-4-4-1-7-1-1-21-1:1.0.0",
+                    "name": "mega-showdown-fabric-1-4-4-1-7-1-1-21-1",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 15865540,
+                        "MD5": "a05953b166a5f8c4edbf54a30cf68d9c",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/APfJD1RTV_HcccHgZXftBko/mega_showdown-fabric-1.4.4%2B1.7.1%2B1.21.1.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:moogs-structures-1-1-0-1-21-1-21-1-fabric:1.0.0",
+                    "name": "moogs-structures-1-1-0-1-21-1-21-1-fabric",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 238468,
+                        "MD5": "f0113e010da141b70b3c62ad24b15e47",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AEBdSL1YOpOrfLlypAlCM5Y/moogs_structures-1.1.0-1.21-1.21.1-fabric.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:moogsendstructures-1-21-2-0-0:1.0.0",
+                    "name": "moogsendstructures-1-21-2-0-0",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2458609,
+                        "MD5": "03f7de06ee9fa12fe25cd1e2d1ee1cf7",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AARGJLNAEbFiKAKcercquEc/MoogsEndStructures-1.21-2.0.0.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:oh-the-biomes-weve-gone-fabric-2-5-2:1.0.0",
+                    "name": "oh-the-biomes-weve-gone-fabric-2-5-2",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 20713233,
+                        "MD5": "a4f3c157adfa9e0ec917dd63c9af617a",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AFXvPk2pdh4HbyryJYrNmfA/Oh-The-Biomes-Weve-Gone-Fabric-2.5.2.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:oh-the-trees-youll-grow-fabric-1-21-1-5-1-2:1.0.0",
+                    "name": "oh-the-trees-youll-grow-fabric-1-21-1-5-1-2",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 135553,
+                        "MD5": "6928cc2c3155ee67737c5be53e16d64d",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AJURe61gO24SjrL6lIGUoMs/Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.1.2.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:owo-lib-0-12-15-4-1-21:1.0.0",
+                    "name": "owo-lib-0-12-15-4-1-21",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1183559,
+                        "MD5": "3627aee17111e12a8c66928f5d7a3fba",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AJ8OaVypSOO6xoXvvMEqeQg/owo-lib-0.12.15.4%2B1.21.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:rctapi-fabric-1-21-1-0-14-3-beta:1.0.0",
+                    "name": "rctapi-fabric-1-21-1-0-14-3-beta",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 206897,
+                        "MD5": "62fb563ff592ff543ed26634e15b5a37",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AE2QhKqzdlRAP3C58ibXs3c/rctapi-fabric-1.21.1-0.14.3-beta.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:skinrestorer-2-4-3-1-21-fabric:1.0.0",
+                    "name": "skinrestorer-2-4-3-1-21-fabric",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 191709,
+                        "MD5": "7506a7c5470e6ac46a3a403dac493d5c",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ALs0lzD2RpjY-Bn0_apepnE/skinrestorer-2.4.3%2B1.21-fabric.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:sodium-fabric-0-6-1-mc1-21-1:1.0.0",
+                    "name": "sodium-fabric-0-6-1-mc1-21-1",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1291049,
+                        "MD5": "a883c82dde9bef063e5713bcf1394bdd",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/APlaVRE95YPIRvB-e3ZtJyY/sodium-fabric-0.6.1%2Bmc1.21.1.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:spawnnotification-fabric-1-7-1-2-1-0:1.0.0",
+                    "name": "spawnnotification-fabric-1-7-1-2-1-0",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 126611,
+                        "MD5": "baaf59ae592f180e578c7d9db5e9fdaa",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AJj2ESMYss4KTahAdkZqlDY/spawnnotification-fabric-1.7.1-2.1.0.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:terrablender-fabric-1-21-1-4-1-0-8:1.0.0",
+                    "name": "terrablender-fabric-1-21-1-4-1-0-8",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 337989,
+                        "MD5": "cf9f9ea80cd7f8febebbe1752f23b68f",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/ABXjKmMPlrBDu387XBPkc30/TerraBlender-fabric-1.21.1-4.1.0.8.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:terralith:1.0.0",
+                    "name": "terralith",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 3115385,
+                        "MD5": "93dd6c7f8824e531fedaf37fd23f5c99",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/APguJCXHhs27UmPUK9MX8bk/Terralith.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:timcore-fabric-1-7-1-1-26-1:1.0.0",
+                    "name": "timcore-fabric-1-7-1-1-26-1",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 200133,
+                        "MD5": "fd14519ccd1deca3065c117bfa8a6f2b",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AGeFsD2EoBFx4cGTHi4p7kw/timcore-fabric-1.7.1-1.26.1.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:ultraeconomy-us:1.0.0",
+                    "name": "ultraeconomy-us",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 127653,
+                        "MD5": "8529a2d0009909e87519a84245fdd845",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AKXwExxz6lVgUwV8ex967aU/UltraEconomy-US.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:wondertrade:1.0.0",
+                    "name": "wondertrade",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 67930,
+                        "MD5": "15e1ce56e821eb23f067d55b83b9fad3",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AOpwDBUocvt3IEJxzLXs3E8/WonderTrade.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:worldweaver-21-0-13:1.0.0",
+                    "name": "worldweaver-21-0-13",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2364215,
+                        "MD5": "6b2ca5e70ba245a74a7cbe71dd0a41bb",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AHxDprkYbd-JT4bEKAfeIr4/worldweaver-21.0.13.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:wunderlib-21-0-8:1.0.0",
+                    "name": "wunderlib-21-0-8",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 384385,
+                        "MD5": "4fcfb12f3e187f788b3ab9aaa22eab33",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AOK2EoLqtulgzyw8cZtfV0k/wunderlib-21.0.8.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
+                    }
+                },
+                {
+                    "id": "com.dropbox:yuushya-1-21-0-fabric-2-2-3:1.0.0",
+                    "name": "yuushya-1-21-0-fabric-2-2-3",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 23385785,
+                        "MD5": "a483ea4d5018994f2da36d19a0c6aef2",
+                        "url": "https://www.dropbox.com/scl/fo/1oiwdmwnhwu4vryza6wwi/AOaO-e3SYbnbpqdIRLgqTEs/yuushya-1.21.0-fabric-2.2.3.jar?rlkey=7guewzis3m0gyguwkc6ekv00z&dl=1"
                     }
                 }
             ]
