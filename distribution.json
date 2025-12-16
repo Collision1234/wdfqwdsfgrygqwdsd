@@ -742,6 +742,16 @@
                         "MD5": "1a76a983052bdc1c3dc0f2c72120d278",
                         "url": "https://www.dropbox.com/scl/fi/ur6vvgz4nvljx5x682veq/CobblemonShinyRarities-0.1.0.jar?rlkey=jdr0ig9dw6bn0op798ln0dzh9&st=xvg3ug3g&dl=1"
                     }
+                    },
+                {
+                    "id": "com.dropbox:peaceful-hunger-fabric-1-21-1-2-2-0:1.0.0",
+                    "name": "peaceful-hunger-fabric-1-21-1-2-2-0",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 32651,
+                        "MD5": "2278619ec66c1bd5ed57b2472ff4b982",
+                        "url": "https://www.dropbox.com/scl/fi/swtfv8rz847eo1yhc5ii6/peaceful_hunger-fabric-1.21.1-2.2.0.jar?rlkey=67kz4g3pisyvd81cbyhx1v4ta&st=dwvgsu42&dl=1"
+                    }
                 }
             ]
         }
